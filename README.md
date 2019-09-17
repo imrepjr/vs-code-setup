@@ -14,10 +14,10 @@ Relevant settings:
 {
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
-    "[vue]": { // Vue is an exception
+    "[vue]": {
         "editor.formatOnSave": false
     },
-    "eslint.validate": [ // Not sure if this is related...
+    "eslint.validate": [
         "javascript",
         "javascriptreact",
         {
