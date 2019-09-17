@@ -1,14 +1,23 @@
 # VS Code setup
 
+I created this repository to store my preferences related to Visual Studio Code
+and to make them available for future reference for myself and anyone who
+stumbles upon it. I plan on keeping it up-to-date whenever I find some new stuff
+worth adding - suggestions, constructive comments are welcome.
+
 ## Prettier & Visual Studio Code
 
-How to set up Prettier with VS Code and elsint to autofix your code.
+Here I have documented how I have set up the [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extension
+with VS Code and elsint to autofix your code and work along with other extensions
+that provide automatic corrections.
 
 ### VS code settings
 
-Settings in [settings.json](./vscode-config/settings.json).
+All of my settings can be found in [settings.json](./vscode-config/settings.json).
 
-Relevant settings:
+Below are the settings that I found relevant to make Prettier work without weird,
+contradicting corrections alongside the Vetur extension and certain eslint
+settings:
 
 ```JSON
 {
@@ -33,11 +42,15 @@ Relevant settings:
 
 ## VS Code extensions
 
-List of VS Code was removed, became deprecated with the [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
+I removed the list of my VS Code extensions, it became deprecated (and I saw no
+point in maintaining it) with the [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
 
 ## Configure ESLint
 
-ESLint config can be set up easily in `~` or in the root of the desired project folder in an `.eslintrc.json` file. Copy contents from the appropriate sample below.
+ESLint config can be set up easily in `~` or in the root of the desired project
+folder in an `.eslintrc.json` file. Copy contents from the appropriate sample
+below if you wish to try out my settings. More info on [ESLint in the official
+docs](https://eslint.org/).
 
 Rule sets:
 
