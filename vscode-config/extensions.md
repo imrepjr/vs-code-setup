@@ -1,0 +1,22 @@
+# List of VS Code extensions
+
+-   Auto Close Tag _(Jun Han)_;
+-   Auto Renam Tag _(Jun Han)_;
+-   Autoprefixer _(mrminc)_;
+-   Bracket Pair Colorizer 2 _(CoenraadS)_;
+-   Dart _(Dart Code)_;
+-   ESLint _(Dirk Baeumer)_;
+-   Flutter _(Dart Code)_;
+-   Formatting Toggle _(tombonnike)_;
+-   JavaScript (ES6) code snippets _(charalampos kaypidis)_;
+-   Material Theme _(Mattia Astorino)_;
+-   Material Theme Icons _(Mattia Astorino)_;
+-   npm _(egamma)_;
+-   npm Intellisense _(Christian Kohler)_;
+-   Path Intellisense _(Christian Kohler)_;
+-   Prettier - Code formatter _(Esben Petersen)_;
+-   TSLint _(Microsoft)_;
+-   Vetur _(Pine Wu)_;
+-   vscode-language-todo _(fireyy)_;
+-   Vue Peek _(Dario Fuzinato)_;
+-   Vue.js Extension Pack _(Muhammad Ubaid Raza)_;
