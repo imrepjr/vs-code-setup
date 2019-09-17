@@ -33,7 +33,7 @@ Relevant settings:
 
 ## VS Code extensions
 
-List of VS Code [extensions](./vscode-config/extensions.md).
+List of VS Code was removed, became deprecated with the [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
 
 ## Configure ESLint
 
@@ -43,3 +43,7 @@ Rule sets:
 
 -   [vue.js](./general-vue-eslintrc.json)
 -   [react](./react-eslintrc.json)
+
+**TODO:**
+
+-   Add `tslint` config!
