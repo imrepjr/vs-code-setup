@@ -19,35 +19,9 @@ that provide automatic corrections.
 
 All of my settings can be found in [settings.json](./vscode-config/settings.json).
 
-Below are the settings that I found relevant to make Prettier work without weird,
-contradicting corrections alongside the Vetur extension and certain eslint
-settings:
-
-```JSON
-{
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "[vue]": {
-        "editor.formatOnSave": false
-    },
-    "eslint.validate": [
-        "javascript",
-        "javascriptreact",
-        {
-            "language": "vue",
-            "autoFix": true
-        }
-    ],
-    "eslint.autoFixOnSave": true,
-    "prettier.printWidth": 120,
-    "prettier.tabWidth": 4
-}
-```
-
 ## VS Code extensions
 
-I removed the list of my VS Code extensions, it became deprecated (and I saw no
-point in maintaining it) with the [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
+TODO
 
 ## Configure ESLint
 
