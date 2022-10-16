@@ -5,6 +5,10 @@ and to make them available for future reference for myself and anyone who
 stumbles upon it. I plan on keeping it up-to-date whenever I find some new stuff
 worth adding - suggestions, constructive comments are welcome.
 
+## Fonts
+
+- [FiraCode](https://github.com/tonsky/FiraCode)
+
 ## Prettier & Visual Studio Code
 
 Here I have documented how I have set up the [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extension
@@ -56,7 +60,3 @@ Rule sets:
 
 -   [vue.js](./general-vue-eslintrc.json)
 -   [react](./react-eslintrc.json)
-
-**TODO:**
-
--   Add `tslint` config!
