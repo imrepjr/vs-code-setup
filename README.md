@@ -8,6 +8,7 @@ worth adding - suggestions, constructive comments are welcome.
 ## Fonts
 
 - [FiraCode](https://github.com/tonsky/FiraCode)
+- Meslo Nerd Font should be available by following the [recommendations](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k) during the p10k Zsh theme installation.
 
 ## Prettier & Visual Studio Code
 
